@@ -1,0 +1,11 @@
+string key
+uint8 operation
+# Operation
+#   0 - Update
+#   1 - Delete
+ui_node detial
+# detial
+# this can be empty if delete
+---
+bool ok
+ui_node[] detials

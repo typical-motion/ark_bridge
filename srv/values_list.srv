@@ -1,0 +1,6 @@
+# Request
+bool isUpdate
+---
+# Response
+uint8 length
+value_desc[] values
